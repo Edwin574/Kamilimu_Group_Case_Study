@@ -1,0 +1,10 @@
+.idea
+.viscode
+.vscode
+.vscode-test        
+.vscode-test-results
+.vscode-test-results.xml
+.vscode-test-results.json
+.vscode-test-results.txt
+
+
