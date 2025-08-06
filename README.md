@@ -19,7 +19,6 @@ Improve and evaluate machine learning approaches for identifying the active powe
 ├── casestudy_risper.ipynb             # Risper's personal notebook
 ├── casestudy_katherin.ipynb           # Katherin's personal notebook
 ├── casestudy_andrew.ipynb             # Andrew's personal notebook
-├── casestudy_jane.ipynb               # Jane's personal notebook
 ├── README.md                          # Project overview and setup instructions
 └── .gitignore                         # Git ignore file
 ```
